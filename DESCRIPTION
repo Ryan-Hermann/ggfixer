@@ -1,0 +1,16 @@
+Package: ggfixer
+Title: ggfixer: Visualizations turned pretty, fast
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ryan",
+           family = "Hermann",
+           role = c("aut", "cre"),
+           email = "ryanhermannbusiness@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: The ggfixer package is designed to modify ggplot visualizations input into it into more appealing, outputs.
+Depends: ggplot2 (>= 3.3.5)
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
